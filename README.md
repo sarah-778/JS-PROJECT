@@ -1,1 +1,2 @@
 # JS-PROJECT
+![OUR PROJECT](./Capture.PNG)
